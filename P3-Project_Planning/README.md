@@ -14,4 +14,4 @@ https://trello.com/b/yvXqcuRh/capstone
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-https://github.com/ZhouTembo/Sym-Tom
+https://github.com/ZhouTembo/SymTom
